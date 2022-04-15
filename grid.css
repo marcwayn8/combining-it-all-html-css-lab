@@ -1,0 +1,17 @@
+.container2{
+    display:grid;
+    
+    grid-template-columns: 800px ;
+    grid-template-rows: 200px 200px;
+    
+}
+.box1{
+   background-color: #C4C4C4; 
+   width: 800px;
+   
+}
+.box2{
+    background-color:white;
+     width: 638px;
+     text-align: center;
+}

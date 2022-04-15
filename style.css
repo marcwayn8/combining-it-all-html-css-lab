@@ -13,8 +13,36 @@ body{
     
     
 }
-.container1{
-    background-color:red;
-    height:50px;
+.intro{
+    background-color: #C4C4C4;
+    padding:10px;
+    display:flex;
+    width: 100%;
 }
-
+.space{
+    display:flex;
+    justify-content:flex-end;
+    margin-right: 0px;
+    width: 400px;
+    background-color: #C4C4C4;
+    
+}
+.box1{
+   background-color: #C4C4C4; 
+   width: 800px;
+   display: flex;
+   justify-content:center;
+   
+   
+}
+.box2{
+    display:flex;
+    justify-content:center;
+    background-color:white;
+    width: 638px;
+    text-align: center;
+}
+.container2{
+    display:flex;
+    justify-content:center;
+}
